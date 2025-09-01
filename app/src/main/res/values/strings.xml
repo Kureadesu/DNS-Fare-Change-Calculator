@@ -51,6 +51,7 @@
 
     <!-- Fare Constants (can also be defined in Java, but XML is an option) -->
     <!-- Bulakan-Malolos Fares -->
+    <!-- fares from san jose -->
     <integer name="fare_bm_b_sanjose">13</integer>
     <integer name="fare_bm_b_maysantol">13</integer>
     <integer name="fare_bm_b_sannicolas">13</integer>
@@ -61,7 +62,63 @@
     <integer name="fare_bm_b_bagna">21</integer>
     <integer name="fare_bm_b_atlag">23</integer>
     <integer name="fare_bm_b_sanjuan">25</integer>
+
+    <!-- fares from maysantol -->
+    <integer name="fare_bm_my_sn">13</integer> <!--to san nicolas-->
+    <integer name="fare_bm_my_p">13</integer> <!--to pitpitan-->
+    <integer name="fare_bm_my_mm">13</integer> <!--to mambog-->
+    <integer name="fare_bm_my_mt">15</integer> <!--to matimbo-->
+    <integer name="fare_bm_my_ps">17</integer> <!--to panasahan-->
+    <integer name="fare_bm_my_b">19</integer> <!--to bagna-->
+    <integer name="fare_bm_my_a">21</integer> <!--to atlag-->
+    <integer name="fare_bm_my_sj_sanjuan">23</integer> <!--to san juan-->
+
+    <!-- fares from san nicolas -->
+    <integer name="fare_bm_sn_p">13</integer> <!--to pitpitan-->
+    <integer name="fare_bm_sn_mm">13</integer> <!--to mambog-->
+    <integer name="fare_bm_sn_mt">13</integer> <!--to matimbo-->
+    <integer name="fare_bm_sn_ps">15</integer> <!--to panasahan-->
+    <integer name="fare_bm_sn_b">17</integer> <!--to bagna-->
+    <integer name="fare_bm_sn_a">19</integer> <!--to atlag-->
+    <integer name="fare_bm_sn_sj_sanjuan">21</integer> <!--to san juan-->
+
+    <!-- fares from pitpitan -->
+    <integer name="fare_bm_p_mm">13</integer> <!--to mambog-->
+    <integer name="fare_bm_p_mt">13</integer> <!--to matimbo-->
+    <integer name="fare_bm_p_ps">13</integer> <!--to panasahan-->
+    <integer name="fare_bm_p_b">15</integer> <!--to bagna-->
+    <integer name="fare_bm_p_a">17</integer> <!--to atlag-->
+    <integer name="fare_bm_p_sj_sanjuan">19</integer> <!--to san juan-->
+
+    <!-- fares from mambog -->
+    <integer name="fare_bm_mm_mt">13</integer> <!--to matimbo-->
+    <integer name="fare_bm_mm_ps">13</integer> <!--to panasahan-->
+    <integer name="fare_bm_mm_b">13</integer> <!--to bagna-->
+    <integer name="fare_bm_mm_a">15</integer> <!--to atlag-->
+    <integer name="fare_bm_mm_sj_sanjuan">17</integer> <!--to san juan-->
+
+    <!-- fares from matimbo -->
+    <integer name="fare_bm_mt_ps">13</integer> <!--to panasahan-->
+    <integer name="fare_bm_mt_b">13</integer> <!--to bagna-->
+    <integer name="fare_bm_mt_a">13</integer> <!--to atlag-->
+    <integer name="fare_bm_mt_sj_sanjuan">15</integer> <!--to san juan-->
+
+    <!-- fares from panasahan -->
+    <integer name="fare_bm_ps_b">13</integer> <!--to bagna-->
+    <integer name="fare_bm_ps_a">13</integer> <!--to atlag-->
+    <integer name="fare_bm_ps_sj_sanjuan">13</integer> <!--to san juan-->
+
+    <!-- fares from bagna -->
+    <integer name="fare_bm_b_a">13</integer> <!--to atlag-->
+    <integer name="fare_bm_b_sj_sanjuan">13</integer> <!--to san juan-->
+
+    <!-- fares from atlag -->
+    <integer name="fare_bm_a_sj_sanjuan">13</integer> <!--to san juan-->
+
+
+
     <!-- Malolos-Bulakan Fares -->
+    <!-- fares from san juan -->
     <integer name="fare_mb_sj_sanjuan">13</integer>
     <integer name="fare_mb_sj_atlag">13</integer>
     <integer name="fare_mb_sj_bagna">13</integer>
@@ -72,4 +129,58 @@
     <integer name="fare_mb_sannicolas">21</integer>
     <integer name="fare_mb_maysantol">23</integer>
     <integer name="fare_mb_sanjose">25</integer>
+
+    <!-- fares from atlag -->
+    <integer name="fare_mb_at_b">13</integer> <!-- to bagna -->
+    <integer name="fare_mb_at_ps">13</integer> <!-- to panasahan -->
+    <integer name="fare_mb_at_mt">13</integer> <!-- to matimbo -->
+    <integer name="fare_mb_at_mm">15</integer> <!-- to mambog -->
+    <integer name="fare_mb_at_p">17</integer> <!-- to pitpitan -->
+    <integer name="fare_mb_at_sn">19</integer> <!-- to san nicolas -->
+    <integer name="fare_mb_at_my">21</integer> <!-- to maysantol -->
+    <integer name="fare_mb_at_sj_sanjose">23</integer> <!-- to san jose -->
+
+    <!-- fares from bagna -->
+    <integer name="fare_mb_bg_ps">13</integer> <!-- to panasahan -->
+    <integer name="fare_mb_bg_mt">13</integer> <!-- to matimbo -->
+    <integer name="fare_mb_bg_mm">13</integer> <!-- to mambog -->
+    <integer name="fare_mb_bg_p">15</integer> <!-- to pitpitan -->
+    <integer name="fare_mb_bg_sn">17</integer> <!-- to san nicolas -->
+    <integer name="fare_mb_bg_my">19</integer> <!-- to maysantol -->
+    <integer name="fare_mb_bg_sj_sanjose">21</integer> <!-- to san jose -->
+
+    <!-- fares from panasahan -->
+    <integer name="fare_mb_ps_mt">13</integer> <!-- to matimbo -->
+    <integer name="fare_mb_ps_mm">13</integer> <!-- to mambog -->
+    <integer name="fare_mb_ps_p">13</integer> <!-- to pitpitan -->
+    <integer name="fare_mb_ps_sn">15</integer> <!-- to san nicolas -->
+    <integer name="fare_mb_ps_my">17</integer> <!-- to maysantol -->
+    <integer name="fare_mb_ps_sj_sanjose">19</integer> <!-- to san jose -->
+
+    <!-- fares from matimbo -->
+    <integer name="fare_mb_mt_mm">13</integer> <!-- to mambog -->
+    <integer name="fare_mb_mt_p">13</integer> <!-- to pitpitan -->
+    <integer name="fare_mb_mt_sn">13</integer> <!-- to san nicolas -->
+    <integer name="fare_mb_mt_my">15</integer> <!-- to maysantol -->
+    <integer name="fare_mb_mt_sj_sanjose">17</integer> <!-- to san jose -->
+
+    <!-- fares from mambog -->
+    <integer name="fare_mb_mm_p">13</integer> <!-- to pitpitan -->
+    <integer name="fare_mb_mm_sn">13</integer> <!-- to san nicolas -->
+    <integer name="fare_mb_mm_my">13</integer> <!-- to maysantol -->
+    <integer name="fare_mb_mm_sj_sanjose">15</integer> <!-- to san jose -->
+
+    <!-- fares from pitpitan -->
+    <integer name="fare_mb_p_sn">13</integer> <!-- to san nicolas -->
+    <integer name="fare_mb_p_my">13</integer> <!-- to maysantol -->
+    <integer name="fare_mb_p_sj_sanjose">13</integer> <!-- to san jose -->
+
+    <!-- fares from san nicolas -->
+    <integer name="fare_mb_sm_my">13</integer> <!-- to maysantol -->
+    <integer name="fare_mb_sn_sj_sanjose">13</integer> <!-- to san jose -->
+
+    <!-- fares from maysantol -->
+    <integer name="fare_mb_my_sj_sanjose">13</integer> <!-- to san jose -->
+
+
 </resources>

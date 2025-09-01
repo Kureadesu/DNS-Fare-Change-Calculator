@@ -23,7 +23,7 @@
 
             <Space
                 android:layout_width="match_parent"
-                android:layout_height="30dp" />
+                android:layout_height="10dp" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -122,6 +122,7 @@
 
                 <Spinner
                     android:id="@+id/pickup"
+                    style="?android:attr/spinnerStyle"
                     android:background="@color/white"
                     android:layout_weight="1"
                     android:layout_width="wrap_content"
@@ -190,27 +191,55 @@
                     android:textSize="20sp"
                     android:textStyle="bold" />
             </LinearLayout>
-            <Button
-                android:id="@+id/discounted"
-                android:layout_width="300dp"
-                android:layout_height="60dp"
-                android:layout_gravity="center"
-                android:textColor="@color/white"
-                android:backgroundTint="@color/headerText"
-                android:textSize="20sp"
-                android:textStyle="bold"
-                android:text="Discounted Fare"/>
 
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingEnd="16dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingStart="12dp"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/discounted"
+                    android:layout_width="150dp"
+                    android:layout_height="60dp"
+                    android:layout_gravity="center"
+                    android:textColor="@color/white"
+                    android:backgroundTint="@color/headerText"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:text="Discounted Fare"/>
+
+                <Button
+                    android:id="@+id/regular"
+                    android:layout_width="150dp"
+                    android:layout_height="60dp"
+                    android:layout_gravity="center"
+                    android:textColor="@color/white"
+                    android:backgroundTint="@color/green"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:text="Regular Fare"/>
+            </LinearLayout>
             <Button
-                android:id="@+id/regular"
-                android:layout_width="300dp"
+                android:id="@+id/clear"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
                 android:layout_height="60dp"
                 android:layout_gravity="center"
                 android:textColor="@color/white"
-                android:backgroundTint="@color/green"
+                android:backgroundTint="@color/red"
                 android:textSize="20sp"
                 android:textStyle="bold"
-                android:text="Regular Fare"/>
+                android:text="AC"/>
+
+        </LinearLayout>
 
             <Space
                 android:layout_width="match_parent"
