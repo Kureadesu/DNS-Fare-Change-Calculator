@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">DNS Fare Calculator</string>
+    <string-array name="location_names_bb">
+        <item>--select pickup--</item>
+        <item>Bagumbayan | San Jose</item>
+        <item>Matungao</item>
+        <item>Panginay Guiguinto</item>
+        <item>Panginay Balagtas</item>
+        <item>Wawa</item>
+    </string-array>
+
+    <integer-array name="location_categories_bb">
+        <item>0</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+    </integer-array>
+
+    <string-array name="all_location_display_names">
+        <item>--select location--</item>
+        <!-- Bulakan-Malolos Route & Shared -->
+        <item>Bagumbayan / San Jose</item>
+        <item>Maysantol</item>
+        <item>San Nicolas</item>
+        <item>Pitpitan</item>
+        <item>Mambog</item>
+        <item>Matimbo</item>
+        <item>Panasahan</item>
+        <item>Bagna</item>
+        <item>Atlag</item>
+        <item>San Juan/Sto. Rosario</item>
+    </string-array>
+
+    <!-- Corresponding categories for the locations above -->
+    <integer-array name="all_location_categories">
+        <item>0</item>  <!-- -select location- (CATEGORY_PROMPT) -->
+        <!-- Bulakan-Malolos Categories -->
+        <item>10</item> <!-- Bagumbayan / San Jose (CATEGORY_BULAKAN_SAN_JOSE) -->
+        <item>11</item> <!-- Maysantol (CATEGORY_MALOLOS_MAYSANTOL) -->
+        <item>12</item> <!-- San Nicolas (CATEGORY_MALOLOS_SANNICOLAS) -->
+        <item>13</item> <!-- Pitpitan (CATEGORY_MALOLOS_PITPITAN) -->
+        <item>14</item> <!-- Mambog (CATEGORY_MALOLOS_MAMBOG) -->
+        <item>15</item> <!-- Matimbo (CATEGORY_MALOLOS_MATIMBO) -->
+        <item>16</item> <!-- Panasahan (CATEGORY_MALOLOS_PANASAHAN) -->
+        <item>17</item> <!-- Bagna (CATEGORY_MALOLOS_BAGNA) -->
+        <item>18</item> <!-- Atlag (CATEGORY_MALOLOS_ATLAG) -->
+        <item>19</item> <!-- San Juan/Sto. Rosario (CATEGORY_MALOLOS_SANJUAN_STOROSARIO) -->
+    </integer-array>
+
+    <!-- Fare Constants (can also be defined in Java, but XML is an option) -->
+    <!-- Bulakan-Malolos Fares -->
+    <integer name="fare_bm_b_sanjose">13</integer>
+    <integer name="fare_bm_b_maysantol">13</integer>
+    <integer name="fare_bm_b_sannicolas">13</integer>
+    <integer name="fare_bm_b_pitpitan">13</integer>
+    <integer name="fare_bm_b_mambog">15</integer>
+    <integer name="fare_bm_b_matimbo">17</integer>
+    <integer name="fare_bm_b_panasahan">19</integer>
+    <integer name="fare_bm_b_bagna">21</integer>
+    <integer name="fare_bm_b_atlag">23</integer>
+    <integer name="fare_bm_b_sanjuan">25</integer>
+    <!-- Malolos-Bulakan Fares -->
+    <integer name="fare_mb_sj_sanjuan">13</integer>
+    <integer name="fare_mb_sj_atlag">13</integer>
+    <integer name="fare_mb_sj_bagna">13</integer>
+    <integer name="fare_mb_sj_panasahan">13</integer>
+    <integer name="fare_mb_matimbo">15</integer>
+    <integer name="fare_mb_mambog">17</integer>
+    <integer name="fare_mb_pitpitan">19</integer>
+    <integer name="fare_mb_sannicolas">21</integer>
+    <integer name="fare_mb_maysantol">23</integer>
+    <integer name="fare_mb_sanjose">25</integer>
+</resources>
