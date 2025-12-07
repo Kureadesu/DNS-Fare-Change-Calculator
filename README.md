@@ -26,7 +26,7 @@ DNS Fare Calculator is an Android application designed to simplify fare calculat
 5.  Connect an Android device or start an Emulator.
 6.  Click the **Run** button (green play icon) to build and install the app.
 
-### Option 2: Via APK [here](https://www.mediafire.com/file/0wy0ls2sfuu0njv/DNS+Fare+Change+Calculator.apk/file)
+### Option 2: Via APK [here](https://www.mediafire.com/file/fom8atpajrzjqto/app-release.apk/file)
 1.  Download the `.apk` file to your Android device.
 2.  Navigate to your file manager and tap the APK file.
 3.  Allow installation from unknown sources if prompted.
