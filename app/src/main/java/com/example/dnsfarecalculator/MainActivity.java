@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         // exit app
-        exit.setOnClickListener(v -> finish());
+        exit.setOnClickListener(v -> finishAffinity());
 
     }
 }

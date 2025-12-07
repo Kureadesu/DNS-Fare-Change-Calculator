@@ -49,6 +49,20 @@
         <item>19</item> <!-- San Juan/Sto. Rosario (CATEGORY_MALOLOS_SANJUAN_STOROSARIO) -->
     </integer-array>
 
+    <string-array name="passenger_counts">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="amount_paid_options">
+        <item>20</item>
+        <item>50</item>
+        <item>100</item>
+    </string-array>
+
     <!-- Fare Constants (can also be defined in Java, but XML is an option) -->
     <!-- Bulakan-Malolos Fares -->
     <!-- fares from san jose -->
