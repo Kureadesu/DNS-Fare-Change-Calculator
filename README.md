@@ -19,7 +19,7 @@ DNS Fare Calculator is an Android application designed to simplify fare calculat
 ## How to Install
 
 ### Option 1: Via Android Studio (for Developers)
-1.  Clone or download this repository.
+1.  Clone or download the master branch.
 2.  Open **Android Studio**.
 3.  Select **Open an existing Android Studio project** and navigate to the project directory.
 4.  Wait for Gradle to sync.
