@@ -1,0 +1,25 @@
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\MainWindow.baml
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\MainWindow.g.cs
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\App.g.cs
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\DNS Fare Change Calculator_MarkupCompile.cache
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\DNS Fare Change Calculator.g.resources
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\DNS_Fare_Change_Calculator.Properties.Resources.resources
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\DNS Fare Change Calculator.csproj.GenerateResource.cache
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\DNS Fare Change Calculator.csproj.CoreCompileInputs.cache
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\bin\Debug\DNS Fare Change Calculator.exe.config
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\bin\Debug\DNS Fare Change Calculator.exe
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\bin\Debug\DNS Fare Change Calculator.pdb
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\BulakanGuiguintoWindow.baml
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\BulakanBalagtasWindow.baml
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\BulakanMalolosWindow.baml
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\BulakanGuiguintoWindow.g.cs
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\BulakanBalagtasWindow.g.cs
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\BulakanMalolosWindow.g.cs
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\DNS Fare Change Calculator.exe
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\DNS Fare Change Calculator.pdb
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\bin\Debug\DNS Fare Change Calculator.exe.manifest
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\bin\Debug\DNS Fare Change Calculator.application
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\DNS Fare Change Calculator.csproj.AssemblyReference.cache
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\DNS Fare Change Calculator.TrustInfo.xml
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\DNS Fare Change Calculator.exe.manifest
+D:\claire\DNS Fare Change Calculator App\DNS Fare Change Calculator\obj\Debug\DNS Fare Change Calculator.application

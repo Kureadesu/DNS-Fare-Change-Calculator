@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36128.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNS Fare Change Calculator", "DNS Fare Change Calculator.csproj", "{476D7439-C80F-4C35-BB19-48E57F7E0C67}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DNS Fare Calculator Setup", "..\DNS Fare Calculator Setup\DNS Fare Calculator Setup.vdproj", "{A243B261-07F0-49FA-AE62-D54A0C6C6724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{476D7439-C80F-4C35-BB19-48E57F7E0C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476D7439-C80F-4C35-BB19-48E57F7E0C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476D7439-C80F-4C35-BB19-48E57F7E0C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476D7439-C80F-4C35-BB19-48E57F7E0C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A243B261-07F0-49FA-AE62-D54A0C6C6724}.Debug|Any CPU.ActiveCfg = Debug
+		{A243B261-07F0-49FA-AE62-D54A0C6C6724}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {776D053D-2A67-4ECC-9697-5D90E6F46D1B}
+	EndGlobalSection
+EndGlobal
